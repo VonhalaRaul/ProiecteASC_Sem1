@@ -1,0 +1,7 @@
+C:\Users\AsusTek\Videos\Vonhala_Raul_Proiecte\FP_Facultate\BinaryClock_Vonhala_Raul\BinaryClock_Vonhala_Raul\obj\Debug\BinaryClock_Vonhala_Raul.csproj.AssemblyReference.cache
+C:\Users\AsusTek\Videos\Vonhala_Raul_Proiecte\FP_Facultate\BinaryClock_Vonhala_Raul\BinaryClock_Vonhala_Raul\obj\Debug\BinaryClock_Vonhala_Raul.csproj.CoreCompileInputs.cache
+C:\Users\AsusTek\Videos\Vonhala_Raul_Proiecte\FP_Facultate\BinaryClock_Vonhala_Raul\BinaryClock_Vonhala_Raul\bin\Debug\BinaryClock_Vonhala_Raul.exe.config
+C:\Users\AsusTek\Videos\Vonhala_Raul_Proiecte\FP_Facultate\BinaryClock_Vonhala_Raul\BinaryClock_Vonhala_Raul\bin\Debug\BinaryClock_Vonhala_Raul.exe
+C:\Users\AsusTek\Videos\Vonhala_Raul_Proiecte\FP_Facultate\BinaryClock_Vonhala_Raul\BinaryClock_Vonhala_Raul\bin\Debug\BinaryClock_Vonhala_Raul.pdb
+C:\Users\AsusTek\Videos\Vonhala_Raul_Proiecte\FP_Facultate\BinaryClock_Vonhala_Raul\BinaryClock_Vonhala_Raul\obj\Debug\BinaryClock_Vonhala_Raul.exe
+C:\Users\AsusTek\Videos\Vonhala_Raul_Proiecte\FP_Facultate\BinaryClock_Vonhala_Raul\BinaryClock_Vonhala_Raul\obj\Debug\BinaryClock_Vonhala_Raul.pdb
